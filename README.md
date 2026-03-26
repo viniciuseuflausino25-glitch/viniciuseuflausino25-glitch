@@ -24,12 +24,11 @@
 ## 📊 Estatísticas
 <div align="center">
   <img height="160em" 
-  src="https://github-readme-stats.vercel.app/api?username=viniciuseuflausino25-glitch&show_icons=true&theme=dark"/>
+  src="https://github-readme-stats.vercel.app/api?username=viniciuseuflausino25-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
   
   <img height="160em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuseuflausino25-glitch&layout=compact&theme=dark"/>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuseuflausino25-glitch&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </div>
-
 ---
 
 
