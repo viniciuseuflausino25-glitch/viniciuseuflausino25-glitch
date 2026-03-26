@@ -22,13 +22,9 @@
 ---
 
 ## 📊 Estatísticas
-<div align="center">
-  <img height="160em" 
-  src="https://github-readme-stats.vercel.app/api?username=viniciuseuflausino25-glitch&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  
-  <img height="160em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuseuflausino25-glitch&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</div>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=viniciuseuflausino25-glitch&theme=tokyonight"/>
+</p>
 ---
 
 
