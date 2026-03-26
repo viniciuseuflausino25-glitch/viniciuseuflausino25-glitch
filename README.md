@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=viniciuseuflausino25-glitch&theme=tokyonight"/>
 </p>
----
 
 
 ## 📫 Contato
